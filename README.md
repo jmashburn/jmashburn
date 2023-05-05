@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_nleiva?style=social">
+<!-- <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iwobble?style=social"> -->
 <a href="https://linkedin.com/in/jaredmashburn"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="jaredmash" /></a>
 <!-- <a href="https://nleiva.medium.com/"><img align="left" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=plastic&logo=medium&logoColor=white" alt="@nleiva" /></a>
 <img align="right" src="https://iwobble.com/ghpvc/?username=nleiva&label=Views&style=plastic&color=orange"> -->
